@@ -1,0 +1,3 @@
+C:/Prog/CLion/AaDS 2/StringSearchAnalysis/cmake-build-debug/CMakeFiles/StringSearchAnalysis.dir
+C:/Prog/CLion/AaDS 2/StringSearchAnalysis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Prog/CLion/AaDS 2/StringSearchAnalysis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
